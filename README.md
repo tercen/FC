@@ -4,6 +4,7 @@ Tercen operators for IC are available in this repository. The flowCore bioconduc
 
 * transformer operator is found in the ``transformer_op`` directory
 * density operator is found in the ``density_op`` directory
+* cluster operator is found in the ``cluster`` directory
 * rectangle gate operator is under developement and is found in the ``rectangle_gate_op`` 
 
 Example data is found in ``data`` folder
